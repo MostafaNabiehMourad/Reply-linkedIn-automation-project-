@@ -1,4 +1,4 @@
 # Reply linkedIn automation project
 
 
-https://user-images.githubusercontent.com/81525051/147880415-9cd49d5b-d43e-4b4a-b999-c14149cf2571.mp4
+![Fun Automation project](https://user-images.githubusercontent.com/81525051/147880479-ef72020c-9cdd-4943-823e-1d06597ad89d.gif)
